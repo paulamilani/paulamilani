@@ -7,7 +7,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@paulamillanii](https://medium.com/@paulamillanii)
 
-- 📫 How to reach me **paula.millanii@gmail.com**
+- 📫 How to reach me **paula.millanii@gmail.com** 
+
+[Connect with me](https://paulamilani.github.io/) 
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
